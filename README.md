@@ -132,5 +132,5 @@ Verwendete Kernkomponenten (Beispiele, genaue Teile können je nach Aufbau varii
 ### 2. Repository klonen
 
 ```bash
-git clone https://github.com/<user>/<repo>.git
-cd <repo>
+git clone [https://github.com/<user>/<repo>.git](https://github.com/MHRN-DS/AutomatedPlant)
+cd <[repo](https://github.com/MHRN-DS/AutomatedPlant)>
